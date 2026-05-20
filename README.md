@@ -27,13 +27,36 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+
+## 🚀 Мои проекты
+
+Здесь представлены некоторые из моих учебных и практических разработок:
+
+* [cite_start]**[AUCA Teachers Evaluation Website](https://auca-alpha.vercel.app/)** [cite: 23, 24]
+  * [cite_start]**Описание:** Платформа для студентов АУЦА, позволяющая оставлять и просматривать отзывы о преподавателях[cite: 25].
+  * [cite_start]**Стек:** React[cite: 23].
+  * [cite_start]**Ключевой функционал:** Реализован удобный пользовательский интерфейс для взаимодействия с базой отзывов[cite: 17].
+
+* [cite_start]**[Car Rental Website](https://github.com/maksat200)** [cite: 26]
+  * [cite_start]**Описание:** Фронтенд-приложение для аренды автомобилей с каталогом и формами бронирования[cite: 27].
+  * [cite_start]**Стек:** React, React Hooks[cite: 27].
+  * [cite_start]**Особенности:** Полностью адаптивная вёрстка и продуманное управление состоянием приложения[cite: 27].
+
+* [cite_start]**[Telegram Summarizer Bot](https://github.com/maksat200)** [cite: 28]
+  * [cite_start]**Описание:** Бот для групповых чатов, который автоматически обрабатывает сообщения, выделяет ключевые темы, даты и формирует краткие отчёты[cite: 19, 29].
+  * [cite_start]**Стек:** Python, Telebot, API Gemini[cite: 28, 29].
+
+* [cite_start]**Аналитика данных и BI-проекты** [cite: 20]
+  * [cite_start]**Описание:** Реализация проектов по анализу данных, включая очистку датасетов, построение интерактивных карт и графиков[cite: 20].
+  * [cite_start]**Инструменты:** Pandas, Matplotlib, Seaborn, Geopandas, Folium, Power BI[cite: 11, 12, 21].
+  * [cite_start]**Результаты:** Создание интерактивных дашбордов в Power BI с функционалом фильтрации ключевых показателей[cite: 21].
+ 
+    
 ## 📈 Статистика
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksat200&show_icons=true&theme=radical&hide_border=true)
 
 ## 📫 Связаться со мной
-- **LinkedIn:** [Ваша ссылка]
-- **Telegram:** [@ВашНик]
-- **Email:** [ВашEmail@example.com]
+- **Email:** bakirovmaksat7@gmail.com
 
 ---
 *«Стремлюсь превращать сложные задачи в элегантные решения.»*
