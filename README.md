@@ -1,57 +1,132 @@
-# Привет, я Бакиров Максат Азаматович! 👋
+<h1 align="center">👋 Hi, I'm Maksat Bakirov</h1>
 
-Я начинающий разработчик, студент 2-го курса, увлеченный программированием и созданием функциональных решений. 
+<h3 align="center">
+💻 Python Developer | Web Enthusiast | Student
+</h3>
 
-## 🎓 Образование
-- **Университет:** Студент 2-го курса.
-- **Колледж:** Выпускник колледжа АУЦА (AUCA).
-
-## 🚀 Чем я занимаюсь сейчас
-- 💻 Совершенствую навыки в **Python** и веб-разработке.
-- 📚 Изучаю новые фреймворки и углубляю знания в структурах данных.
-- 🔧 Активно работаю над своими репозиториями на GitHub, автоматизируя процессы и создавая новые проекты.
-
-## 💡 Увлечения
-- Изучение современных IT-трендов и технологий.
-- Участие в хакатонах и технических сообществах.
-- Решение алгоритмических задач для прокачки навыков логики.
-
-## 🛠 Стек технологий
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-## 🚀 Мои проекты
-
-Здесь представлены некоторые из моих учебных и практических разработок:
-
-* [cite_start]**[AUCA Teachers Evaluation Website](https://auca-alpha.vercel.app/)** [cite: 23, 24]
-  * [cite_start]**Описание:** Платформа для студентов АУЦА, позволяющая оставлять и просматривать отзывы о преподавателях[cite: 25].
-  * [cite_start]**Стек:** React[cite: 23].
-  * [cite_start]**Ключевой функционал:** Реализован удобный пользовательский интерфейс для взаимодействия с базой отзывов[cite: 17].
-
-* [cite_start]**[Car Rental Website](https://github.com/maksat200)** [cite: 26]
-  * [cite_start]**Описание:** Фронтенд-приложение для аренды автомобилей с каталогом и формами бронирования[cite: 27].
-  * [cite_start]**Стек:** React, React Hooks[cite: 27].
-  * [cite_start]**Особенности:** Полностью адаптивная вёрстка и продуманное управление состоянием приложения[cite: 27].
-
-* [cite_start]**[Telegram Summarizer Bot](https://github.com/maksat200)** [cite: 28]
-  * [cite_start]**Описание:** Бот для групповых чатов, который автоматически обрабатывает сообщения, выделяет ключевые темы, даты и формирует краткие отчёты[cite: 19, 29].
-  * [cite_start]**Стек:** Python, Telebot, API Gemini[cite: 28, 29].
-
-* [cite_start]**Аналитика данных и BI-проекты** [cite: 20]
-  * [cite_start]**Описание:** Реализация проектов по анализу данных, включая очистку датасетов, построение интерактивных карт и графиков[cite: 20].
-  * [cite_start]**Инструменты:** Pandas, Matplotlib, Seaborn, Geopandas, Folium, Power BI[cite: 11, 12, 21].
-  * [cite_start]**Результаты:** Создание интерактивных дашбордов в Power BI с функционалом фильтрации ключевых показателей[cite: 21].
- 
-    
-## 📈 Статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksat200&show_icons=true&theme=radical&hide_border=true)
-
-## 📫 Связаться со мной
-- **Email:** bakirovmaksat7@gmail.com
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;React+Enthusiast;AI+and+Data+Analytics;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 ---
-*«Стремлюсь превращать сложные задачи в элегантные решения.»*
+
+## 🚀 About Me
+
+🎓 Second-year university student passionate about programming and technology.  
+🏫 Graduate of AUCA College.  
+
+💡 I enjoy building web applications, automation tools, AI-powered projects, and data analytics solutions.
+
+- 🔭 Currently improving my skills in **Python** and **Web Development**
+- 🌱 Learning new frameworks and advanced data structures
+- ⚙️ Building personal and educational projects
+- 📚 Solving algorithmic problems to improve logical thinking
+- 🚀 Interested in AI, Backend Development, and Data Analytics
+
+---
+
+# 🛠 Tech Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+</p>
+
+---
+
+# 🚀 Projects
+
+## 🌟 AUCA Teachers Evaluation Website
+
+🔗 https://auca-alpha.vercel.app/
+
+A platform for AUCA students to leave and explore teacher reviews.
+
+### Features:
+- Teacher rating system
+- Review and feedback functionality
+- User-friendly interface
+- Responsive design
+
+### Tech Stack:
+`React` • `JavaScript` • `CSS`
+
+---
+
+## 🚗 Car Rental Website
+
+🔗 https://github.com/maksat200
+
+Frontend web application for car rental services.
+
+### Features:
+- Car catalog
+- Booking forms
+- Responsive layout
+- State management using React Hooks
+
+### Tech Stack:
+`React` • `Hooks` • `CSS`
+
+---
+
+## 🤖 Telegram Summarizer Bot
+
+AI-powered Telegram bot for group chats.
+
+### Features:
+- Message analysis
+- Key topic extraction
+- Important dates detection
+- Automatic summaries
+
+### Tech Stack:
+`Python` • `Telebot` • `Gemini API`
+
+---
+
+## 📊 Data Analytics & BI Projects
+
+Projects focused on data analysis and visualization.
+
+### Included:
+- Data cleaning
+- Interactive charts
+- Maps and dashboards
+- Power BI analytics
+
+### Tools:
+`Pandas` • `Matplotlib` • `Seaborn` • `Geopandas` • `Folium` • `Power BI`
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maksat200&show_icons=true&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksat200&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+# 📫 Contact Me
+
+📧 Email: **bakirovmaksat7@gmail.com**
+
+💻 GitHub: https://github.com/maksat200
+
+---
+
+<h3 align="center">
+✨ “Turning complex problems into elegant solutions.” ✨
+</h3>
