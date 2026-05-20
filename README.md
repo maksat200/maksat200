@@ -1,41 +1,35 @@
 <h1 align="center">👋 Hi, I'm Maksat Bakirov</h1>
 
 <h3 align="center">
-💻 Python Developer | Web Enthusiast | Student
+💻 Python Developer | React Enthusiast | AI & Data Analytics
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;React+Enthusiast;AI+and+Data+Analytics;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;React+Developer;AI+Enthusiast;Backend+Learner;Always+learning+new+things&center=true&width=600&height=45">
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 Second-year university student passionate about programming and technology.  
 🏫 Graduate of AUCA College.  
 
-💡 I enjoy building web applications, automation tools, AI-powered projects, and data analytics solutions.
+💡 I enjoy building modern web applications, AI-powered tools, and data analytics projects.
 
 - 🔭 Currently improving my skills in **Python** and **Web Development**
-- 🌱 Learning new frameworks and advanced data structures
-- ⚙️ Building personal and educational projects
-- 📚 Solving algorithmic problems to improve logical thinking
+- 🌱 Learning advanced data structures and backend technologies
+- ⚙️ Building educational and personal projects
+- 📚 Solving algorithmic problems
 - 🚀 Interested in AI, Backend Development, and Data Analytics
 
 ---
 
 # 🛠 Tech Stack
 
-<p align="left">
+<p align="center">
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,react,js,html,css,git,sqlite,github,vscode" />
 
 </p>
 
@@ -47,15 +41,14 @@
 
 🔗 https://auca-alpha.vercel.app/
 
-A platform for AUCA students to leave and explore teacher reviews.
+Platform for AUCA students to leave and explore teacher reviews.
 
-### Features:
+### Features
 - Teacher rating system
 - Review and feedback functionality
-- User-friendly interface
-- Responsive design
+- Responsive modern UI
 
-### Tech Stack:
+### Stack
 `React` • `JavaScript` • `CSS`
 
 ---
@@ -64,15 +57,15 @@ A platform for AUCA students to leave and explore teacher reviews.
 
 🔗 https://github.com/maksat200
 
-Frontend web application for car rental services.
+Frontend application for car rental services.
 
-### Features:
+### Features
 - Car catalog
 - Booking forms
-- Responsive layout
-- State management using React Hooks
+- Responsive design
+- State management with React Hooks
 
-### Tech Stack:
+### Stack
 `React` • `Hooks` • `CSS`
 
 ---
@@ -81,13 +74,13 @@ Frontend web application for car rental services.
 
 AI-powered Telegram bot for group chats.
 
-### Features:
+### Features
 - Message analysis
 - Key topic extraction
 - Important dates detection
 - Automatic summaries
 
-### Tech Stack:
+### Stack
 `Python` • `Telebot` • `Gemini API`
 
 ---
@@ -96,34 +89,68 @@ AI-powered Telegram bot for group chats.
 
 Projects focused on data analysis and visualization.
 
-### Included:
-- Data cleaning
-- Interactive charts
-- Maps and dashboards
-- Power BI analytics
-
-### Tools:
+### Tools
 `Pandas` • `Matplotlib` • `Seaborn` • `Geopandas` • `Folium` • `Power BI`
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maksat200&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maksat200&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksat200&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksat200&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksat200&theme=tokyonight&hide_border=true&border_radius=15"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maksat200&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+# ⚡ GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maksat200&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maksat200/maksat200/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
 # 📫 Contact Me
 
-📧 Email: **bakirovmaksat7@gmail.com**
+<p align="center">
+  
+<a href="mailto:bakirovmaksat7@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💻 GitHub: https://github.com/maksat200
+<a href="https://github.com/maksat200">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maksat200&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
