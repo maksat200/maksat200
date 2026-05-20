@@ -98,12 +98,11 @@ Projects focused on data analysis and visualization.
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maksat200&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksat200&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksat200&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img src="https://streak-stats.demolab.com?user=maksat200&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
 
 ---
