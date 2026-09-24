@@ -108,22 +108,6 @@ Projects focused on data analysis and visualization.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maksat200&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-# ⚡ GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maksat200&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
