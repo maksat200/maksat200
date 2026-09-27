@@ -1,68 +1,93 @@
 <h1 align="center">👋 Hi, I'm Maksat Bakirov</h1>
 
 <h3 align="center">
-💻 Python Developer | React Enthusiast | AI & Data Analytics
+💻 Software Engineer | Python & React Developer | Data Analytics
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;React+Developer;AI+Enthusiast;Backend+Learner;Always+learning+new+things&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Python+Developer;React+Developer;Data+Analytics;Building+Scalable+Solutions&center=true&width=600&height=45">
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 Second-year university student passionate about programming and technology.  
-🏫 Graduate of AUCA College.  
+🎓 **Software Engineering** undergraduate at the American University of Central Asia (AUCA).  
+💼 **Junior Developer** with hands-on experience in building automated corporate workflows, modern web applications, and AI-integrated tools.  
 
-💡 I enjoy building modern web applications, AI-powered tools, and data analytics projects.
+I specialize in bridging the gap between robust backend logic and intuitive frontend interfaces. I am passionate about optimizing processes and turning complex data into actionable insights.
 
-- 🔭 Currently improving my skills in **Python** and **Web Development**
-- 🌱 Learning advanced data structures and backend technologies
-- ⚙️ Building educational and personal projects
-- 📚 Solving algorithmic problems
-- 🚀 Interested in AI, Backend Development, and Data Analytics
+- 🔭 Currently focused on advanced **Python**, **Web Development**, and **Data Structures**
+- ⚙️ Developing full-stack personal projects and corporate automation tools
+- 📊 Experienced in data processing, analytics, and visualization
+- 🚀 Actively exploring AI integrations and Backend Architecture
 
 ---
 
 # 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,react,js,html,css,git,sqlite,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,git,sqlite,github,vscode" />
 </p>
 
 ---
 
 # 🚀 Projects
 
+## 🏢 Corporate Reporting Bot | Nur Telecom (O!)
+
+An automated reporting system developed to streamline internal corporate workflows.
+
+### Features
+- Automated collection of employee reports and statuses via Telegram
+- Dynamic data aggregation and parsing
+- Automatic generation and export of consolidated Excel spreadsheets
+- Significant reduction in manual data entry time
+
+### Stack
+`Python` • `Telegram API` • `Pandas` • `Excel`
+
+---
+
 ## 🌟 AUCA Teachers Evaluation Website
 
 🔗 https://auca-alpha.vercel.app/
 
-Platform for AUCA students to leave and explore teacher reviews.
+A comprehensive platform for AUCA students to leave, explore, and analyze teacher reviews.
 
 ### Features
-- Teacher rating system
-- Review and feedback functionality
-- Responsive modern UI
+- Dynamic teacher rating system
+- Secure review and feedback functionality
+- Responsive, modern user interface
 
 ### Stack
 `React` • `JavaScript` • `CSS`
 
 ---
 
-## 🚗 Car Rental Website
+## 🤖 AI Telegram Summarizer Bot
+
+An AI-powered Telegram bot designed to manage and summarize active group chats.
+
+### Features
+- Deep message analysis and context tracking
+- Key topic extraction and important dates detection
+- Automatic, concise daily summaries
+
+### Stack
+`Python` • `Telebot` • `Gemini API`
+
+---
+
+## 🚗 Car Rental Service
 
 🔗 https://github.com/maksat200
 
-Frontend application for car rental services.
+A frontend application designed for seamless car rental bookings.
 
 ### Features
-- Car catalog
-- Booking forms
-- Responsive design
+- Interactive car catalog and filtering
+- Dynamic booking forms
 - State management with React Hooks
 
 ### Stack
@@ -70,24 +95,9 @@ Frontend application for car rental services.
 
 ---
 
-## 🤖 Telegram Summarizer Bot
-
-AI-powered Telegram bot for group chats.
-
-### Features
-- Message analysis
-- Key topic extraction
-- Important dates detection
-- Automatic summaries
-
-### Stack
-`Python` • `Telebot` • `Gemini API`
-
----
-
 ## 📊 Data Analytics & BI Projects
 
-Projects focused on data analysis and visualization.
+A collection of projects focused on data processing, spatial analysis, and visualization.
 
 ### Tools
 `Pandas` • `Matplotlib` • `Seaborn` • `Geopandas` • `Folium` • `Power BI`
@@ -139,5 +149,5 @@ Projects focused on data analysis and visualization.
 ---
 
 <h3 align="center">
-✨ “Turning complex problems into elegant solutions.” ✨
+✨ “Turning complex problems into elegant scalable solutions.” ✨
 </h3>
